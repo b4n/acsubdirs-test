@@ -1,0 +1,2 @@
+Goal: without changing any C sources, and with the least intrusive set
+of changes, make `distcheck` work with `subdir-objects` option enabled.
