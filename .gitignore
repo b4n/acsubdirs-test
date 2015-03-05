@@ -1,0 +1,16 @@
+Makefile
+Makefile.in
+/aclocal.m4
+/autom4te.cache/
+/compile
+/config*
+/depcomp
+/install-sh
+/missing
+.deps/
+.dirstamp
+*.o
+
+acsubdirs*
+/src/prog
+/test/progcheck
